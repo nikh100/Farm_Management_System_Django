@@ -72,3 +72,9 @@ def Login(request):
     return render(
         request, "authentication/login.html", {"error_message": error_message}
     )
+
+
+def Logout(request):
+    """Log out the current user and redirect to login page."""
+    logout(request)
+    return redirect("authentication:login")
