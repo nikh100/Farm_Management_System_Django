@@ -5,30 +5,7 @@ Agriculture is the backbone of every growing economy.
 Not just the economy, but  i can just name it as a breath!!
 Yeah!! you cant live without breathing!!
 
-sure you cant live without agriculture!! The following is a sample screenshots of the system
-
-
-![Example Image](1.png)
-
-
-![Example Image](2.png)
-
-![Example Image](3.png)
-
-
-![Example Image](4.png)
-
-![Example Image](5.png)
-
-
-![Example Image](6.png)
-
-![Example Image](7.png)
-
-
-![Example Image](8.png)
-
-
+sure you cant live without agriculture!!
 
 ## Table of Contents
 
@@ -43,7 +20,9 @@ sure you cant live without agriculture!! The following is a sample screenshots o
 
 # Introduction
 
-Welcome to the Farm Management System.This farm management system aims to keep truck of the most operations in a farm. Keeping records of your daily operations is an important factor for a successfull and profitable farming. I aim to make your work easier by providing this platform where you can keep your farm records.
+Welcome to the Farm Management System. This farm management system aims to keep track of the most operations in a farm. Keeping records of your daily operations is an important factor for a successful and profitable farming. The system is designed to make your work easier by providing a centralized platform where you can keep your farm records organized and accessible.
+
+**Developed by: Sparsh Yadav**
 
 # Features
 
@@ -150,15 +129,13 @@ Follow these steps to set up the Farm Management System on your local machine:
 ## 1) Clone the Repository:
 
 ```bash
-
-git clone https://github.com/denisganga/Farm_Management_System.git
+git clone https://github.com/sparshydv/Farm_Management_System_Django.git
 ```
 
 ## 2) Navigate to the Project Directory:
 
 ```bash
-
-cd farm-management-system
+cd Farm_Management_System_Django
 ```
 
 ## 3) Create Virtual Environment:
@@ -248,10 +225,17 @@ We welcome contributions to enhance and improve the Farm Management System. To c
 For more details, check the Contribution Guidelines.
 # License
 
-This project is licensed under the [MIT_license](MIT_license).
+This project is licensed under the [MIT License](MIT_license).
+
 # Contact
 
-For any inquiries or assistance, feel free to contact me at denisnganga16@gmail.com. I appreciate your feedback and suggestions!
+For any inquiries or assistance, feel free to contact the developer:
+
+**Developer:** Sparsh Yadav
+**Email:** sparshyadav0816@gmail.com
+**GitHub:** [sparshydv](https://github.com/sparshydv)
+
+I appreciate your feedback and suggestions for improving the Farm Management System!
 
 Thank you for choosing the Farm Management System. Happy farming!
 
