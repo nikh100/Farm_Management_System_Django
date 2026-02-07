@@ -22,7 +22,7 @@ sure you cant live without agriculture!!
 
 Welcome to the Farm Management System. This farm management system aims to keep track of the most operations in a farm. Keeping records of your daily operations is an important factor for a successful and profitable farming. The system is designed to make your work easier by providing a centralized platform where you can keep your farm records organized and accessible.
 
-**Developed by: Sparsh Yadav**
+**Developed by: Nikhil Pratap**
 
 # Features
 
