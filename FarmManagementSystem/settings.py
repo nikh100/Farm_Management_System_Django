@@ -27,6 +27,10 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['farm-management-system-47wm.onrender.com', 'localhost', '127.0.0.1', '*']
 
+CSRF_TRUSTED_ORIGINS = [
+    "https://farmmanagementsystemdjango-production.up.railway.app"
+]
+
 
 
 # Application definition
