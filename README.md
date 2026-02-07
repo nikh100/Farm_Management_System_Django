@@ -129,7 +129,8 @@ Follow these steps to set up the Farm Management System on your local machine:
 ## 1) Clone the Repository:
 
 ```bash
-git clone https://github.com/sparshydv/Farm_Management_System_Django.git
+git clone https://github.com/nikh100/Farm_Management_System_Django.git
+
 ```
 
 ## 2) Navigate to the Project Directory:
@@ -233,7 +234,7 @@ For any inquiries or assistance, feel free to contact the developer:
 
 **Developer:** Sparsh Yadav
 **Email:** sparshyadav0816@gmail.com
-**GitHub:** [sparshydv](https://github.com/sparshydv)
+**GitHub:** [nikh100](https://github.com/nikh100)
 
 I appreciate your feedback and suggestions for improving the Farm Management System!
 
