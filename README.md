@@ -232,8 +232,8 @@ This project is licensed under the [MIT License](MIT_license).
 
 For any inquiries or assistance, feel free to contact the developer:
 
-**Developer:** Sparsh Yadav
-**Email:** sparshyadav0816@gmail.com
+**Developer:** Nikhil Pratap
+**Email:** nikh9411@gmail.com
 **GitHub:** [nikh100](https://github.com/nikh100)
 
 I appreciate your feedback and suggestions for improving the Farm Management System!
