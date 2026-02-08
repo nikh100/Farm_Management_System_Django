@@ -10,6 +10,8 @@ sure you cant live without agriculture!!
 CHECK OUT THE SYSTEM 
 https://farmmanagementsystemdjango-production.up.railway.app/
 
+# Main Page https://farmmanagementsystemdjango-production.up.railway.app/mainpage/
+
 ## Table of Contents
 
 - [Introduction](#introduction)
