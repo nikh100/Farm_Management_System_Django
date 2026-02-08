@@ -7,6 +7,9 @@ Yeah!! you cant live without breathing!!
 
 sure you cant live without agriculture!!
 
+CHECK OUT THE SYSTEM 
+https://farmmanagementsystemdjango-production.up.railway.app/
+
 ## Table of Contents
 
 - [Introduction](#introduction)
